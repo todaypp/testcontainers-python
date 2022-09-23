@@ -147,7 +147,7 @@ pika==1.2.1
     # via testcontainers
 pluggy==1.0.0
     # via pytest
-protobuf==3.20.1
+protobuf==3.19.5
     # via
     #   google-api-core
     #   googleapis-common-protos
