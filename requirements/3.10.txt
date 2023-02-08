@@ -47,7 +47,7 @@ coverage[toml]==6.3.2
     # via
     #   codecov
     #   pytest-cov
-cryptography==36.0.2
+cryptography==39.0.1
     # via
     #   -r requirements.in
     #   paramiko
